@@ -6,7 +6,7 @@
     - Anyone can see their existing todos
     - Anyone can mark a todo as done
 
-    //initialise a node project 
-    //put a package.json
-    //npm init 
-//write a basic express boilerplate code with express.json() middleware
+- Tech stacks used
+      - React
+      - Express
+      - Mongo(database)
